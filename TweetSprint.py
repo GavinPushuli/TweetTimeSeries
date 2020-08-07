@@ -4,7 +4,7 @@ import tweepy
 import csv
 
 
-consumer_key = '4VAEYOhZ9EYUpeclCt6s5ZFGs'
+consumer_key = '4TGEYOhZ9EYUpeclSc6s5ZFGs'
 consumer_secret = '5bRvds4rCUMpcHv9L8QpDvnGUxX4aLvNltDUsyln02wON1n2g'
 access_token = '1247080467268075520-CdzK0x4W4MGAyw91VzllAlLGv9SGDI'
 access_secret = 'ZIfDrLiWy7pURRLqMl8oaAn7Ynss4eaHAjSuJljIc7pER'
